@@ -20,7 +20,9 @@ _Cập nhật lần cuối: 2026-10-04_
 
 ## Liên hệ
 
-Nếu có câu hỏi về chính sách này, vui lòng liên hệ qua phần hỗ trợ trên App Store.
+Nếu có câu hỏi về chính sách này, vui lòng liên hệ:
+- Email: **nguyenphong.mobile.engineer@gmail.com**
+- Hoặc qua phần hỗ trợ trên App Store
 
 ---
 
@@ -46,4 +48,6 @@ This app **does not collect, store, or transmit any personal data** off your dev
 
 ## Contact
 
-For questions about this policy, please reach out via the App Store support section.
+For questions about this policy, please contact:
+- Email: **nguyenphong.mobile.engineer@gmail.com**
+- Or via the App Store support section
